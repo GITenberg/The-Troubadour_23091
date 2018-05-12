@@ -1,0 +1,32 @@
+_repo: The-Troubadour_23091
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowndes, Robert W.
+    aliases:
+    - Josephs, Henry
+    - Lowndes, Robert Augustine Ward
+    birthdate: 1916
+    deathdate: 1998
+    gutenberg_agent_id: '25669'
+    url: http://www.gutenberg.org/2009/agents/25669
+    wikipedia: http://en.wikipedia.org/wiki/Robert_A._W._Lowndes
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Troubadour
+url: http://www.gutenberg.org/ebooks/23091
