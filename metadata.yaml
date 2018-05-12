@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25669
     wikipedia: http://en.wikipedia.org/wiki/Robert_A._W._Lowndes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23091#The-Troubadour
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
